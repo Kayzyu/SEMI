@@ -57,7 +57,7 @@ except ValueError:
 # Pesan Saat Memaksa Subscribe
 FORCE_MSG = os.environ.get(
     "FORCE_SUB_MESSAGE",
-    "<b>Hello {first}\n\nAnda Harus Join Channel\nhttps://t.me/+AZdtMMmKLSs3MjFl Terlebih Dahulu\n\nSelamat Menonton.</b>",
+    "<b>👇Anda Harus Join Channel Terlebih Dahulu👇, Lalu Kembali Coba Lagi.</b>",
 )
 
 # Atur Teks Kustom Anda di sini, Simpan (None) untuk Menonaktifkan Teks Kustom
